@@ -1,0 +1,8 @@
+edu/depaul/se433/shoppingapp/averagePurchaseTest.java
+ edu.depaul.se433.shoppingapp.averagePurchaseTest
+edu/depaul/se433/shoppingapp/TotalCostCalculatorTest.java
+ edu.depaul.se433.shoppingapp.TotalCostCalculatorTest
+edu/depaul/se433/shoppingapp/TotalCostCalulatorSTeps.java
+ edu.depaul.se433.shoppingapp.TotalCostCalulatorSTeps
+edu/depaul/se433/shoppingapp/testRunner.java
+ edu.depaul.se433.shoppingapp.TestRunner

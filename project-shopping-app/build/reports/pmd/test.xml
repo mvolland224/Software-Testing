@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.34.0" timestamp="2021-05-31T14:38:27.498">
+<file name="C:\Users\raven\OneDrive\Desktop\project-shopping-app\src\test\java\edu\depaul\se433\shoppingapp\TotalCostCalculatorTest.java">
+<violation beginline="27" endline="27" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="minBoundTestInitalCostNoTaxStandardShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="27" endline="27" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="minBoundTestInitalCostNoTaxStandardShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="34" endline="34" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="justAboveMinBoundTestInitalCostNoTaxStandardShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="34" endline="34" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="justAboveMinBoundTestInitalCostNoTaxStandardShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="41" endline="41" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="nomialBoundTestInitalCostNoTaxStandardShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="41" endline="41" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="nomialBoundTestInitalCostNoTaxStandardShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="48" endline="48" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="belowMaxBoundTestInitalCostNoTaxStandardShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="48" endline="48" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="belowMaxBoundTestInitalCostNoTaxStandardShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="55" endline="55" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="maxBoundTestInitalCostNoTaxStandardShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="55" endline="55" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="maxBoundTestInitalCostNoTaxStandardShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="62" endline="62" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="minBoundTestInitalCostTaxStandardShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="62" endline="62" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="minBoundTestInitalCostTaxStandardShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="69" endline="69" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="aboveMinBoundTestInitalCostTaxStandardShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="69" endline="69" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="aboveMinBoundTestInitalCostTaxStandardShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="76" endline="76" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="nominalBoundTestInitalCostTaxStandardShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="76" endline="76" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="nominalBoundTestInitalCostTaxStandardShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="83" endline="83" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="belowMaxBoundTestInitalCostTaxStandardShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="83" endline="83" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="belowMaxBoundTestInitalCostTaxStandardShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="90" endline="90" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="maxBoundTestInitalCostTaxStandardShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="90" endline="90" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="maxBoundTestInitalCostTaxStandardShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="97" endline="97" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="minBoundTestInitalCostNoTaxNextDayShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="97" endline="97" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="minBoundTestInitalCostNoTaxNextDayShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="104" endline="104" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="aboveMinBoundTestInitalCostNoTaxNextDayShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="104" endline="104" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="aboveMinBoundTestInitalCostNoTaxNextDayShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="111" endline="111" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="nomialBoundTestInitalCostNoTaxNextDayShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="111" endline="111" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="nomialBoundTestInitalCostNoTaxNextDayShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="118" endline="118" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="belowMaxBoundTestInitalCostNoTaxNextDayShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="118" endline="118" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="belowMaxBoundTestInitalCostNoTaxNextDayShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="125" endline="125" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="maxBoundTestInitalCostNoTaxNextDayShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="125" endline="125" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="maxBoundTestInitalCostNoTaxNextDayShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="132" endline="132" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="minBoundTestInitalCostTaxNextDayShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="132" endline="132" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="minBoundTestInitalCostTaxNextDayShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="139" endline="139" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="aboveMinBoundTestInitalCostTaxNextDayShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="139" endline="139" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="aboveMinBoundTestInitalCostTaxNextDayShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="146" endline="146" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="nominalBoundTestInitalCostTaxNextDayShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="146" endline="146" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="nominalBoundTestInitalCostTaxNextDayShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="153" endline="153" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="belowMaxBoundTestInitalCostTaxNextDayShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="153" endline="153" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="belowMaxBoundTestInitalCostTaxNextDayShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="160" endline="160" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="maxBoundTestInitalCostTaxNextDayShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="160" endline="160" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="maxBoundTestInitalCostTaxNextDayShipping" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="167" endline="167" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="minBoundTestInitalCostTaxNextDayShippingCA" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="167" endline="167" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="minBoundTestInitalCostTaxNextDayShippingCA" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="174" endline="174" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="aboveMinBoundTestInitalCostTaxNextDayShippingCA" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="174" endline="174" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="aboveMinBoundTestInitalCostTaxNextDayShippingCA" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="181" endline="181" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="nominalBoundTestInitalCostTaxNextDayShippingCA" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="181" endline="181" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="nominalBoundTestInitalCostTaxNextDayShippingCA" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="188" endline="188" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="belowMaxBoundTestInitalCostTaxNextDayShippingCA" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="188" endline="188" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="belowMaxBoundTestInitalCostTaxNextDayShippingCA" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="195" endline="195" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="maxBoundTestInitalCostTaxNextDayShippingCA" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="195" endline="195" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="maxBoundTestInitalCostTaxNextDayShippingCA" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="201" endline="217" begincolumn="10" endcolumn="3" rule="JUnitTestContainsTooManyAsserts" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="weakRobustTests" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junittestcontainstoomanyasserts" priority="3">
+Unit tests should not contain more than 1 assert(s).
+</violation>
+<violation beginline="201" endline="217" begincolumn="10" endcolumn="3" rule="JUnitTestContainsTooManyAsserts" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="weakRobustTests" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junittestcontainstoomanyasserts" priority="3">
+Unit tests should not contain more than 1 assert(s).
+</violation>
+<violation beginline="203" endline="203" begincolumn="9" endcolumn="39" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="weakRobustTests" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+Position literals first in String comparisons
+</violation>
+<violation beginline="203" endline="203" begincolumn="9" endcolumn="39" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="weakRobustTests" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+Position literals first in String comparisons
+</violation>
+<violation beginline="203" endline="203" begincolumn="9" endcolumn="39" rule="PositionLiteralsFirstInComparisons" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="weakRobustTests" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#positionliteralsfirstincomparisons" priority="3">
+Position literals first in String comparisons
+</violation>
+<violation beginline="203" endline="203" begincolumn="9" endcolumn="39" rule="PositionLiteralsFirstInComparisons" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="weakRobustTests" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#positionliteralsfirstincomparisons" priority="3">
+Position literals first in String comparisons
+</violation>
+<violation beginline="205" endline="205" begincolumn="14" endcolumn="44" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="weakRobustTests" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+Position literals first in String comparisons
+</violation>
+<violation beginline="205" endline="205" begincolumn="14" endcolumn="44" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="weakRobustTests" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+Position literals first in String comparisons
+</violation>
+<violation beginline="205" endline="205" begincolumn="14" endcolumn="44" rule="PositionLiteralsFirstInComparisons" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="weakRobustTests" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#positionliteralsfirstincomparisons" priority="3">
+Position literals first in String comparisons
+</violation>
+<violation beginline="205" endline="205" begincolumn="14" endcolumn="44" rule="PositionLiteralsFirstInComparisons" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="weakRobustTests" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#positionliteralsfirstincomparisons" priority="3">
+Position literals first in String comparisons
+</violation>
+<violation beginline="208" endline="208" begincolumn="7" endcolumn="18" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="weakRobustTests" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="208" endline="208" begincolumn="7" endcolumn="18" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="weakRobustTests" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="213" endline="213" begincolumn="7" endcolumn="18" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="weakRobustTests" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="213" endline="213" begincolumn="7" endcolumn="18" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="weakRobustTests" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="224" endline="224" begincolumn="9" endcolumn="35" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="strongNormalTests" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+Position literals first in String comparisons
+</violation>
+<violation beginline="224" endline="224" begincolumn="9" endcolumn="35" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="strongNormalTests" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+Position literals first in String comparisons
+</violation>
+<violation beginline="224" endline="224" begincolumn="9" endcolumn="35" rule="PositionLiteralsFirstInComparisons" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="strongNormalTests" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#positionliteralsfirstincomparisons" priority="3">
+Position literals first in String comparisons
+</violation>
+<violation beginline="224" endline="224" begincolumn="9" endcolumn="35" rule="PositionLiteralsFirstInComparisons" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="strongNormalTests" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#positionliteralsfirstincomparisons" priority="3">
+Position literals first in String comparisons
+</violation>
+<violation beginline="230" endline="230" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="strongNormalTests" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="230" endline="230" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="TotalCostCalculatorTest" method="strongNormalTests" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+</file>
+<file name="C:\Users\raven\OneDrive\Desktop\project-shopping-app\src\test\java\edu\depaul\se433\shoppingapp\TotalCostCalulatorSTeps.java">
+<violation beginline="10" endline="10" begincolumn="10" endcolumn="20" rule="BeanMembersShouldSerialize" ruleset="Error Prone" package="edu.depaul.se433.shoppingapp" class="TotalCostCalulatorSTeps" variable="initialCost" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_errorprone.html#beanmembersshouldserialize" priority="3">
+Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="11" endline="11" begincolumn="10" endcolumn="14" rule="BeanMembersShouldSerialize" ruleset="Error Prone" package="edu.depaul.se433.shoppingapp" class="TotalCostCalulatorSTeps" variable="state" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_errorprone.html#beanmembersshouldserialize" priority="3">
+Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="12" endline="12" begincolumn="16" endcolumn="19" rule="BeanMembersShouldSerialize" ruleset="Error Prone" package="edu.depaul.se433.shoppingapp" class="TotalCostCalulatorSTeps" variable="type" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_errorprone.html#beanmembersshouldserialize" priority="3">
+Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="21" endline="21" begincolumn="19" endcolumn="28" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="edu.depaul.se433.shoppingapp" class="TotalCostCalulatorSTeps" method="shippingTypeTester" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="21" endline="21" begincolumn="9" endcolumn="28" rule="CompareObjectsWithEquals" ruleset="Error Prone" package="edu.depaul.se433.shoppingapp" class="TotalCostCalulatorSTeps" method="shippingTypeTester" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_errorprone.html#compareobjectswithequals" priority="3">
+Use equals() to compare object references.
+</violation>
+<violation beginline="21" endline="21" begincolumn="9" endcolumn="28" rule="UseEqualsToCompareStrings" ruleset="Error Prone" package="edu.depaul.se433.shoppingapp" class="TotalCostCalulatorSTeps" method="shippingTypeTester" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_errorprone.html#useequalstocomparestrings" priority="3">
+Use equals() to compare strings instead of '==' or '!='
+</violation>
+</file>
+<file name="C:\Users\raven\OneDrive\Desktop\project-shopping-app\src\test\java\edu\depaul\se433\shoppingapp\averagePurchaseTest.java">
+<violation beginline="19" endline="19" begincolumn="46" endcolumn="61" rule="AvoidDuplicateLiterals" ruleset="Error Prone" package="edu.depaul.se433.shoppingapp" class="averagePurchaseTest" method="averagePurchaseNoDataBaseInteractionTest" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_errorprone.html#avoidduplicateliterals" priority="3">
+The String literal "Lizzie Mcguire" appears 8 times in this file; the first occurrence is on line 19
+</violation>
+<violation beginline="25" endline="25" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="averagePurchaseTest" method="averagePurchaseNoDataBaseInteractionTest" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="25" endline="25" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="averagePurchaseTest" method="averagePurchaseNoDataBaseInteractionTest" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="49" endline="49" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="averagePurchaseTest" method="nothingInCartTest" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="49" endline="49" begincolumn="5" endcolumn="16" rule="JUnitAssertionsShouldIncludeMessage" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="averagePurchaseTest" method="nothingInCartTest" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#junitassertionsshouldincludemessage" priority="3">
+JUnit assertions should include a message
+</violation>
+</file>
+</pmd>
